@@ -1,6 +1,6 @@
 # 👋 Hi there,
 
-I'm **Pranay Kumar** — passionate about **Data Science**, **Analytics**, and **Generative AI**
+I'm **Pranay Kumar** — passionate about **Data Science**, **Analytics**.
 
 ---
 
