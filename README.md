@@ -1,7 +1,5 @@
 # 👋 Hi there,
 
-![AnthemGIF](https://github.com/user-attachments/assets/f93a94e3-df44-433f-9513-349cac9c8122)
-
 I'm **Pranay Kumar** — passionate about **Data Science**, **Analytics**, and **Generative AI**
 
 ---
